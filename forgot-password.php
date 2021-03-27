@@ -54,7 +54,7 @@ $stmt=$mysqli->prepare("SELECT email,contactNo,password FROM userregistration WH
 							<div class="col-md-8 col-md-offset-2">
 							<?php if(isset($_POST['login']))
 { ?>
-					<p>Yuor Password is <b><?php echo $pwd;?></b><br> Change the Password After login</p>
+					<p>Your Password is <b><?php echo $pwd;?></b><br> Change the Password After Login</p>
 					<?php }  ?>
 								<form action="" class="mt" method="post">
 									<label for="" class="text-uppercase text-sm">Your Email</label>
