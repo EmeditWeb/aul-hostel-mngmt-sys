@@ -175,7 +175,7 @@ $aid=$_SESSION['id'];
 
 
 
-												<div class="col-sm-8 col-sm-offset-2">
+												<div class="col-sm-6 col-sm-offset-4">
 													<button class="btn btn-default" type="submit">Cancel</button>
 													<input type="submit" name="changepwd" Value="Change Password" class="btn btn-primary">
 											</div>

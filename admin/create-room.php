@@ -81,9 +81,9 @@ echo"<script>alert('Room has been added successfully');</script>";
 <option value="">Select Seater</option>
 <option value="1">Single Seater</option>
 <option value="2">Two Seater</option>
-<option value="3">Four Seater</option>
-<option value="4">Six Seater</option>
-<option value="5">Eight Seater</option>
+<option value="3">Three Seater</option>
+<option value="4">Four Seater</option>
+<option value="5">Five Seater</option>
 </Select>
 </div>
 </div>
